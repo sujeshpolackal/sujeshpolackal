@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<pre>
 \    /\
  )  ( •• )  ~ Building impactful software
 (  /  )    ~ Exploring real-time systems
  \(__)|   ~ Crafting clean and efficient code
+</pre>
+
+Thanks for visiting!
